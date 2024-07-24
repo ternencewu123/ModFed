@@ -10,3 +10,15 @@ Model-based federated learning for accurate MR image reconstruction from undersa
 
 - Scenario 1
 <img src="/assets/fig3.png" alt="Description" width="600">
+
+## Training Phase
+
+```python
+python train.py
+```
+
+## Citation
+
+```bibtex
+
+```
