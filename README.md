@@ -1,2 +1,5 @@
 # ModFed
-Model-based Federated Learning Method
+
+Model-based federated learning for accurate MR image reconstruction from undersampled k-space data
+
+<img src="/assets/Fig1.pdf" alt="Description" width="700">
