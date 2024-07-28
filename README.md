@@ -14,7 +14,7 @@ Model-based federated learning for accurate MR image reconstruction from undersa
 ## Training Phase
 
 ```python
-python train.py
+python fedMoDL.py
 ```
 
 ## Citation
